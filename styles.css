@@ -1,0 +1,44 @@
+.head {
+
+  margin-right:200px;
+  margin-left:200px;
+  margin-top: 50px;
+
+  font-family: 'Roboto Mono', monospace;
+}
+
+body {
+  background-color: #F7B32B;
+  text-align:center;
+
+}
+
+
+
+
+#story {
+  font-family: 'Roboto Mono', monospace;
+  background-color: black;
+  color:white;
+  border-style: groove;
+  border-color: #FCF6B1;
+  margin:50px;
+  padding:10px;
+
+
+}
+#placeholder {
+font-family: 'Roboto Mono', monospace;
+margin:25px;
+}
+.image {
+  border-stye:solid;
+  border-radius:75%;
+}
+ html {
+  border-style: solid;
+  border-color:#FCF6B1;
+  border-width: 25px;
+  margin:0px;
+  height:100vw;
+}
